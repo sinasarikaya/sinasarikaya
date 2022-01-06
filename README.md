@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📫 How to reach me sinasarikaya@gmail.com
+
 Connect with me:
 
 <a href="https://www.linkedin.com/in/sina-sarikaya/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sina | LinkedIn" width="21px"/></a>
