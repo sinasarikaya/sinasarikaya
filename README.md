@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 <a href="https://redis.io" target="_blank"><img alt="redis" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/redis.svg" width="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/git.svg" width="40" /></a>
 <a href="https://postman.com" target="_blank"><img alt="postman" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/postman.svg" width="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank"><img alt="kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/></a>
+<a href="https://www.sonarqube.org/" target="_blank"><img alt="sonarqube" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40"/></a>
 </p>
