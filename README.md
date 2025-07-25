@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 📫 How to reach me sinasarikaya@gmail.com
 
 <h3>Connect with me:</h3>
-
+<p>
 <a href="https://www.linkedin.com/in/sina-sarikaya/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sina | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/sarikayasina/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sina | Instagram" width="21px"/></a>
 <a href="https://stackoverflow.com/users/17071314/sina-sarıkaya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Sina | stackoverflow" width="21px"/></a>
-
+</p>
 <h3>Languages:</h3>
 
 <a href="https://www.java.com" target="_blank"><img alt="java" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/java.svg" width="40" /></a>
